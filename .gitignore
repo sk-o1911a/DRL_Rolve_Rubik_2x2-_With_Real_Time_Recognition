@@ -1,0 +1,21 @@
+# Python virtual envs
+.venv/
+venv/
+env/
+ENV/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Build / dist
+build/
+dist/
+*.egg-info
+

@@ -1,0 +1,122 @@
+[
+  {
+    "scramble_len": 1,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 2,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 3,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 4,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 5,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 6,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 7,
+    "solve_rate": 0.99
+  },
+  {
+    "scramble_len": 8,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 9,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 10,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 11,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 12,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 13,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 14,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 15,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 16,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 17,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 18,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 19,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 20,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 21,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 22,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 23,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 24,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 25,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 26,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 27,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 28,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 29,
+    "solve_rate": 1.0
+  },
+  {
+    "scramble_len": 30,
+    "solve_rate": 0.99
+  }
+]
