@@ -66,29 +66,27 @@ DRL_Rolve_Rubik_2x2-_With_Real_Time_Recognition/
 ├── Solver Algorithms
 │   ├── AStar_Solver.py               # A* algorithm solver
 │   ├── BFS_Solver.py                 # Breadth-First Search solver
-│   ├── Dijkstra_Solver.py            # Dijkstra algorithm solver
-│   └── benchmark.py                  # Benchmark các thuật toán solver
+│   └── Dijkstra_Solver.py            # Dijkstra algorithm solver
 │
 ├── Vision & Recognition
-│   ├── Resnet.py                     # ResNet model cho vision
 │   ├── Normalize.py                  # Normalization utilities
 │   ├── camera.py                     # Camera capture và processing
 │   ├── camera_calibrate.py           # Camera calibration
-│   └── Plot_Scatter.py               # Visualization utilities
+│   └── PyGame_Onnx.py                # Game demo sử dụng ONNX model
 │
 ├── Model & Inference
+│   ├── Resnet.py                     # ResNet model cho vision
 │   ├── Onnx_Model.py                 # ONNX model loading và inference
 │   ├── export_onnx.py                # Export model to ONNX format
 │   ├── rubik2x2.onnx                 # Pre-trained ONNX model
 │   └── evaluate.py                   # Evaluation script
 │
-├── Demo & Application
-│   ├── PyGame_Onnx.py                # Game demo sử dụng ONNX model
-│
 ├── Logs & Checkpoints
 │   ├── pbt_checkpoints/              # Lưu trữ PBT model checkpoints
 │   ├── pbt_logs/                     # PBT training logs
-│   └── training_logs_2x2/            # Training logs 2x2 cube
+│   ├── training_logs_2x2/            # Training logs 2x2 cube
+│   ├── benchmark.py                  # Benchmark các thuật toán solver
+│   └── Plot_Scatter.py               # Visualization utilities
 
 ```
 
