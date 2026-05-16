@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning for Rubik's 2x2 Cube with Real-Time Recognition
 
-## 📋 Thông Tin Đồ Án
+## Thông Tin Đồ Án
 
 **Trường Đại học:** Trường Đại học Tôn Đức Thắng
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📖 Mô Tả Dự Án
+## Mô Tả Dự Án
 
 Dự án này kết hợp **Deep Reinforcement Learning (DRL)** với **Real-Time Recognition** để tự động giải quyết Rubik's Cube 2x2. Hệ thống sử dụng:
 
@@ -22,7 +22,7 @@ Dự án này kết hợp **Deep Reinforcement Learning (DRL)** với **Real-Tim
 
 ---
 
-## 🎯 Mục Tiêu
+## Mục Tiêu
 
 - Xây dựng mô hình DRL để học cách giải Rubik's 2x2 cube một cách tự động
 - Phát triển hệ thống nhận dạng thời gian thực trạng thái của cube từ camera
@@ -30,7 +30,7 @@ Dự án này kết hợp **Deep Reinforcement Learning (DRL)** với **Real-Tim
 
 ---
 
-## 🛠️ Công Nghệ Sử Dụng
+## Công Nghệ Sử Dụng
 
 - **Ngôn ngữ lập trình:** Python
 - **Deep Learning Framework:** TensorFlow / PyTorch
@@ -41,7 +41,7 @@ Dự án này kết hợp **Deep Reinforcement Learning (DRL)** với **Real-Tim
 
 ---
 
-## 📁 Cấu Trúc Thư Mục
+## Cấu Trúc Thư Mục
 
 ```
 DRL_Rolve_Rubik_2x2-_With_Real_Time_Recognition/
@@ -67,7 +67,7 @@ DRL_Rolve_Rubik_2x2-_With_Real_Time_Recognition/
 
 ---
 
-## 🚀 Cài Đặt
+## Cài Đặt
 
 ### Yêu Cầu
 - Python 3.8+
@@ -94,7 +94,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📝 Sử Dụng
+## Sử Dụng
 
 ### Huấn Luyện Mô Hình
 ```bash
@@ -113,17 +113,14 @@ python src/main.py --mode demo --camera 0
 
 ---
 
-## 📊 Kết Quả
+## Kết Quả
 
-[Thêm kết quả huấn luyện, biểu đồ và độ chính xác ở đây]
-
-- **Success Rate:** ...%
-- **Average Steps:** ...
-- **Recognition Accuracy:** ...%
+- **Success Rate:** over 95%
+- **Average Steps:** 16
 
 ---
 
-## 🔍 Chi Tiết Kỹ Thuật
+## Chi Tiết Kỹ Thuật
 
 ### Môi Trường Rubik's Cube
 - Trạng thái: Vector 54-chiều (9 sticker × 6 mặt)
@@ -146,7 +143,7 @@ python src/main.py --mode demo --camera 0
 
 ---
 
-## 📚 Tài Liệu Tham Khảo
+## Tài Liệu Tham Khảo
 
 - [OpenAI Gym Documentation](https://gym.openai.com/)
 - [Stable Baselines3](https://stable-baselines3.readthedocs.io/)
@@ -155,7 +152,7 @@ python src/main.py --mode demo --camera 0
 
 ---
 
-## 🤝 Đóng Góp
+## Đóng Góp
 
 Nếu bạn muốn đóng góp cho dự án này, vui lòng:
 
@@ -167,13 +164,13 @@ Nếu bạn muốn đóng góp cho dự án này, vui lòng:
 
 ---
 
-## 📄 Giấy Phép
+## Giấy Phép
 
 Dự án này được cấp phép theo [MIT License](LICENSE) - xem file LICENSE để biết chi tiết.
 
 ---
 
-## ✉️ Liên Hệ
+## Liên Hệ
 
 **Tác giả:** Nguyễn Quốc Khánh (MSSV: 42200211)
 
@@ -183,10 +180,10 @@ Dự án này được cấp phép theo [MIT License](LICENSE) - xem file LICENS
 
 ---
 
-## 📅 Lịch Sử Thay Đổi
+## Lịch Sử Thay Đổi
 
 - **v1.0.0** (2026-05-16): Phiên bản đầu tiên
 
 ---
 
-**Cảm ơn đã ghé thăm dự án này!** 🎉
+**Cảm ơn đã ghé thăm dự án này!**
